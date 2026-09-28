@@ -1,0 +1,6 @@
+{
+  "name": "Near Cabs Service Deoghar",
+  "description": "Deoghar to Basukinath, Kolkata, Patna Cab Service. 5.0-rated outstation taxi in Deoghar, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
